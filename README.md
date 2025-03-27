@@ -1,2 +1,2 @@
 # ResilientFixes
-Project fixing Broken Computers/Phones that I restore from students!
+A documentation hub for all the computers, including MacBooks and Windows device I fix!  
