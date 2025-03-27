@@ -1,2 +1,2 @@
 # ResilientFixes
-Project on Broken Computers that I restore!
+Project fixing Broken Computers/Phones that I restore from students!
