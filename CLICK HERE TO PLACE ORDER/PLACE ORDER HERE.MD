@@ -7,7 +7,7 @@ Follow these quick steps to get your device repaired:
 
 ## 📝 1. Fill Out the Repair Request Form
 
-👉 [Click here to request a repair](GOOGLE_FORM_LINK)
+👉 [Click here to request a repair](https://forms.gle/C5c9DkaRfzHWUQVE8)
 
 You’ll be asked for:
 - Your Name
