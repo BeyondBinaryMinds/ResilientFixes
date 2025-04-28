@@ -4,7 +4,7 @@
 
 ## 📦 Repair Process
 
-- After submitting a repair request, you will receive a full quote (parts + labor).
+- After submitting a repair request, you will receive a full quote.
 - Full payment is required upfront before parts are ordered or any repair work begins.
 - Repairs are completed within 2 days or less after drop-off (unless delayed by parts delivery).
 - Communication regarding repair status, parts, and scheduling will be made through my work phone number.
