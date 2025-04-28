@@ -1,5 +1,5 @@
 # 😼 The Culprits: Criminals of the Client
-These two suspects were caught biting the client's computer, causing major damage!
+These two suspects who bit the client's computer, causing major damage!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b96aa126-675a-40df-82ed-afecd3c7b2aa" alt="The Criminal Cats" width="200"/>
