@@ -1,4 +1,4 @@
-# 📜 SERVICE TERMS — ResilientFixes
+# 📜 SERVICE TERMS — ResilientFix
 
 ---
 
@@ -17,8 +17,9 @@
 - Providing false or incomplete information about your device’s condition may result in service refusal without refund, due to wasted time, parts, and resources.
 
 ### ⏰ No-Show and Cancellation Policy
-- If you no-show or cancel after full payment, **50%** of your total will be kept to cover time and parts ordered.
-- 50% will be refunded.
+- You have **24 hours after payment** to cancel and receive a full refund.
+- After 24 hours, if you cancel, **50%** of your total will be kept to cover time and parts.
+- If you no-show your scheduled drop-off without notice, the same 50% cancellation fee will apply.
 
 ### 📅 Drop-Off and Pickup
 - Devices must be dropped off at the scheduled time chosen by the client.
