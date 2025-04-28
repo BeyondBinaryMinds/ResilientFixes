@@ -23,7 +23,6 @@
 ### 📅 Drop-Off and Pickup
 - Devices must be dropped off at the scheduled time chosen by the client.
 - Devices must be picked up within **5 days** after repair completion unless prior arrangements are made.
-- Devices not picked up within **14 days** will incur a **$5/day storage fee**.
 - Devices not picked up within **30 days** will be considered abandoned and may be recycled, sold, or donated to cover costs.
 
 ### 🛡️ Device Condition Documentation
