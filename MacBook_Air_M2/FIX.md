@@ -10,4 +10,5 @@
 By taking this DIY approach, I saved my friend **$600** while learning valuable repair skills! 🚀  
 
 ## 📸 **Before & After Photos**  
-_(Add photos here if available)_
+![image](https://github.com/user-attachments/assets/6a9f2fbe-93ed-4129-9d7b-5ac0949d77ff)
+
