@@ -48,7 +48,7 @@ You’ll be asked for:
 
 ## 🔥 Fast Repair Guarantee
 
-- Most repairs are completed in **2 days or less** after drop-off!
+- Most repairs are completed in **3 days or less** after drop-off!W
 - You will be notified when your device is ready for pickup.
 
 ---
