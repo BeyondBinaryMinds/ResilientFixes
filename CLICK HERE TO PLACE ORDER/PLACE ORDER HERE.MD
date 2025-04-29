@@ -8,15 +8,6 @@ Follow these quick steps to get your device repaired:
 ## 📝 1. Fill Out the Repair Request Form
 
 👉 [Click here to request a repair](https://forms.gle/C5c9DkaRfzHWUQVE8)
-
-You’ll be asked for:
-- Your Name
-- Phone Number or Email
-- Device Type (Laptop, iPhone, etc.)
-- Device Model Number (Look on the back or under Settings > About)
-- What the issue is
-- Date you can drop off the device
-
 ---
 
 ## 💵 2. Pay Full Repair Total Upfront
