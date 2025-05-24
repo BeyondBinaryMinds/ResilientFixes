@@ -1,8 +1,8 @@
-📱 iPhone 12 Issue
+#📱 iPhone 12 Issue
 
-📅 Date: March 20, 2025 – 11:00 PM
+##📅 Date: March 20, 2025 – 11:00 PM
 
-🛠️ Summary
+##🛠️ Summary
 After my brother broke his phone, I handed him my old iPhone 12 Pro. Unfortunately, he broke that too—and to make things worse, it was the second time the cats had bitten it.
 
 It sat around for months collecting dust until I decided to bring it back to life as a second phone.
