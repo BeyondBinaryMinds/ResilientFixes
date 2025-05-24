@@ -21,6 +21,6 @@ I fixed it myself. 💪
 ## 🔍 Next Steps  
 - Open the phone and inspect internal components
 - Confirm whether the screen needs full replacement
-- Research and compare cost-effective parts/tools
+- Research/purchase and compare cost-effective parts/tools
 - Begin the repair process step by step
 
