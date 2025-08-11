@@ -1,66 +1,66 @@
-#💻 MSI Modern 14 C13M – The Indestructible Survivor Makeover
-📅 Date: August 2025
-This MSI Modern 14 C13M has been my ride-or-die since August 2023. It has survived drops, cracked frames, missing keys, and enough daily wear to send most laptops to the recycling bin. Yet here we are in 2025 — it still works like a champ.
+# 💻 MSI Modern 14 C13M – The Indestructible Survivor Makeover
 
-With my final semester of college ahead, I thought about upgrading to something new. But this laptop has been so reliable that instead, I’m giving it the ultimate transformation — new look, new parts, and a full refresh to keep it running strong for years to come.
+## 📅 Date: August 2025
 
-🛑 Problem Report
-Device: MSI Modern 14 C13M (2023)
+This **MSI Modern 14 C13M** has been my ride-or-die since **August 2023**. It has survived drops, cracked frames, missing keys, and enough daily wear to send most laptops to the recycling bin. Yet here we are in 2025 — it still works like a champ, just with a little *character*.
 
-Exterior Damage
-Side of screen casing broken
+With my **final semester of college** ahead, I thought about upgrading to something new. But this laptop has been so reliable that instead, I’m giving it the **ultimate transformation** — new look, new parts, and a full refresh to keep it running strong for years to come.
 
-Screen display panel hanging off bolts
+---
 
-Bottom-left keyboard frame cracked
+## 🛑 Problem Report
 
-Multiple cracks across the keyboard frame
+- **Device:** MSI Modern 14 C13M (2023)
 
-Keyboard Damage
-Delete key missing
+### Exterior Damage
+- Side of screen casing **broken**
+- Screen display panel **hanging off bolts**
+- Bottom-left keyboard frame **cracked**
+- Multiple cracks across the keyboard frame
 
-Space bar missing
+### Keyboard Damage
+- Missing **Delete** key
+- Missing **Spacebar**
+- Missing top-right keys (Print Screen, etc.)
+- General key wear from heavy use
 
-Top-right keys (Print Screen, etc.) missing
+### Internal & Functional Damage
+- **Webcam no longer works** (internal damage)
+- Trackpad **pushed in** from years of use
+- Cosmetic wear from repeated drops and transport
 
-General key wear from heavy use
+---
 
-Internal & Functional Damage
-Webcam no longer works (internal damage)
+## 📸 Current Condition
 
-Trackpad pushed in from years of use
+*(Add your before photos here showing the broken screen casing, missing keys, cracked keyboard frame, and pushed-in trackpad)*
 
-Cosmetic wear from repeated drops and transport
+---
 
-📸 Current Condition
-(Placeholder for BEFORE photos — damaged casing, missing keys, loose screen, worn trackpad)
+## 🛠️ Planned Repairs & Upgrades
 
-🛠️ Planned Repairs & Upgrades
-Disassemble Laptop – Fully strip down chassis and remove damaged parts.
+1. **Disassemble Laptop** – Fully strip down chassis and remove damaged parts.
+2. **Replace Screen Casing & Bolts** – Secure display to original alignment.
+3. **Install New Keyboard Assembly** – Replace missing and worn keys.
+4. **Replace Trackpad** – Restore smooth click and responsiveness.
+5. **Upgrade Chassis to Black Version** – Full style refresh.
+6. **Replace Keyboard Frame** – Fix cracks for better structure.
+7. **Reassemble & Test** – Ensure stability and proper fit.
 
-Replace Screen Casing & Bolts – Secure display to original alignment.
+---
 
-Install New Keyboard Assembly – Replace missing and worn keys.
+## 💰 Estimated Cost
 
-Replace Trackpad – Restore smooth click and responsiveness.
+| Part                      | Est. Cost     |
+| ------------------------- | ------------- |
+| Black Chassis / Bottom Panel | $50–$70      |
+| Keyboard Assembly (full)  | $30–$50       |
+| Trackpad                  | $20–$30       |
+| Hinges / Screws / Misc.   | $20–$40       |
 
-Upgrade Chassis to Black Version – Full style refresh.
+**Total Estimated:** ~$120–$190 vs. ~$500+ professional repair
 
-Replace Keyboard Frame – Fix cracks for better structure.
+---
 
-Reassemble & Test – Ensure stability and proper fit.
-
-💰 Estimated Cost
-Black Chassis & Frame: ~$50–$70
-
-Replacement Keyboard: ~$30–$50
-
-Trackpad Replacement: ~$20–$30
-
-Misc. Parts (screws, bolts, hinges): ~$20–$40
-
-Tools: Already own (iFixit Pro Kit)
-
-Labor: DIY = $0
-
-Total Estimated: ~$120–$190 vs. ~$500+ professional repair
+✅ This MSI Modern 14 C13M has survived everything I’ve thrown at it.  
+Now, it’s getting **reborn in black** — looking better than ever while keeping the same legendary reliability.
