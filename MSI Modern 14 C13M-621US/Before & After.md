@@ -1,4 +1,4 @@
-💻 MSI Modern 14 C13M – The Indestructible Survivor Makeover
+#💻 MSI Modern 14 C13M – The Indestructible Survivor Makeover
 📅 Date: August 2025
 This MSI Modern 14 C13M has been my ride-or-die since August 2023. It has survived drops, cracked frames, missing keys, and enough daily wear to send most laptops to the recycling bin. Yet here we are in 2025 — it still works like a champ.
 
