@@ -15,8 +15,7 @@ I fixed it myself. 💪
 
   **Symptoms:**  
   - Glitching LCD screen  
-  - Swollen Battey
-  - Broken Glass  
+  - Fast draining Battey
 
 ## 🔍 Next Steps  
 - Open the phone and inspect internal components
