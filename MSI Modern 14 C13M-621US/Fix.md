@@ -1,4 +1,4 @@
-MSI Modern 14 C13M Repair
+# MSI Modern 14 C13M Repair
 🛠️ Solution
 Assessed Damage – Checked broken screen casing, screen hanging off bolts, cracked keyboard frame, missing keys (including Delete and Spacebar), pushed-in trackpad, and non-working webcam.
 
