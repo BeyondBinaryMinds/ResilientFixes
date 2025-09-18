@@ -7,7 +7,7 @@ I was all set to play Apex Legends when my PlayStation 5 DualSense controller st
 If you’ve ever looked at a PS5 controller price, you know they start at $59.99 (sometimes $37 if you find a deal hopefully its not a lemon). As a student, money is tight—I didn’t want to spend another $60 on a controller that came with my console. Instead, I decided to repair it myself!
 
 
-🛑 Problem
+🛑 ##Problem
 
 Device: PlayStation 5 DualSense Controller
 
