@@ -1,6 +1,6 @@
 # THE DEATH DROP 💥
 
 <p align="center">
-  <img src="![IMG_8681](https://github.com/user-attachments/assets/d91a3330-ede4-432c-9d75-50e8560a5a8d)
+  <img src="https://github.com/BeyondBinaryMinds/ResilientFixes/blob/main/IMG_8681.jpg?raw=true")
 " alt="THE DEATH DROP" width="200"/>
 </p>
